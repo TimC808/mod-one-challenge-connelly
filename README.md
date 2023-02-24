@@ -1,6 +1,6 @@
 # Description: This is the splash page for Horiseon Web Marketing Services. Horiseon specializes in full service web marketing solutions aimed at improving your company's findability and, therefore, increasing visits to a customer's website. Increased visits mean more interested customers and revenue growth for Horiseon Web Marketing Services.
 
-# Code Refactor Starter Code
+# Code Refactor Starter Code = Fun Project.
 
 # HTML - Comment re changes on 2/23/2023:
 
